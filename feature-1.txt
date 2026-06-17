@@ -1,7 +1,15 @@
 feature 1 branch
+<<<<<<< HEAD
+=======
+
+>>>>>>> main
 Day24
 
 change 3
 change
 change 2
 
+<<<<<<< HEAD
+=======
+227eeb8 (Add feature-1 test file)
+>>>>>>> main
